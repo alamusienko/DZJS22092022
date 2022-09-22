@@ -1,0 +1,11 @@
+img {
+    height: 125px;
+    object-fit: contain;
+    margin:2px;
+  }
+  
+  li {
+    display: flex;
+    font-size:1,5rem;
+    margin:20px;
+  }
